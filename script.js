@@ -6,7 +6,7 @@
  * - Static contact form -> mailto
  */
 
-const CONTACT_EMAIL = "hello@polazzodev.com";
+const CONTACT_EMAIL = "lucas@polazzo.dev";
 
 function qs(sel, parent = document) {
   return parent.querySelector(sel);
